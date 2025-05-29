@@ -23,7 +23,7 @@ InboxSage cuts through inbox chaos by filtering, summarizing, and helping you re
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/inboxsage.git
+git clone https://github.com/krish858/inboxsage.git
 cd inboxsage
 ```
 ## 2. Set Up Google OAuth & Gmail API
