@@ -9,7 +9,7 @@ InboxSage cuts through inbox chaos by filtering, summarizing, and helping you re
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next.js + Tailwind CSS  
-- **Backend/API:** Next.js API Routes, OpenAI  
+- **Backend/API:** Next.js API Routes, GROQ API
 - **Email Integration:** Gmail API (OAuth2)  
 - **Database:** MongoDB  
 - **Auth:** NextAuth.js  
